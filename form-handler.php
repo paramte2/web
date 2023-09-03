@@ -5,7 +5,7 @@ $subject =$_POST['subject'];
 $message =$_POST['message'];
 
 
-$emmail_from = 'paramtelsolution.great-site.in';
+$emmail_from = 'info@paramte2.github.io/web/';
 
 $email_subject ='New Form Submission';
 
